@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragona Data Editor", "Dragona Data Editor\Dragona Data Editor.csproj", "{70278C66-D175-4580-A54F-89CFA689763C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70278C66-D175-4580-A54F-89CFA689763C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70278C66-D175-4580-A54F-89CFA689763C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70278C66-D175-4580-A54F-89CFA689763C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70278C66-D175-4580-A54F-89CFA689763C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7808E0-0E2F-4D6E-A8A7-2C4DDD95F7C8}
+	EndGlobalSection
+EndGlobal

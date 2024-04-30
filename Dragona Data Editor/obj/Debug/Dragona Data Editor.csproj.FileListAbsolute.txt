@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\obj\Debug\Dragona Data Editor.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\obj\Debug\Dragona_Data_Editor.MainWindow.resources
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\obj\Debug\Dragona_Data_Editor.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\obj\Debug\Dragona Data Editor.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\obj\Debug\Dragona Data Editor.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\bin\Debug\Dragona DFS Editor.exe.config
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\bin\Debug\Dragona DFS Editor.exe
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\bin\Debug\Dragona DFS Editor.pdb
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\obj\Debug\Dragona DFS Editor.exe
+D:\Documents\Visual Studio 2017\Projects\Dragona Data Editor\Dragona Data Editor\obj\Debug\Dragona DFS Editor.pdb
